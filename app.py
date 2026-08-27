@@ -5,7 +5,7 @@ import streamlit as st
 
 # 1. Page Configuration
 st.set_page_config(
-    page_title="Simple Data Analytics Hub",
+    page_title="Data Analytics Hub",
     page_icon="🚀",
     layout="wide",
     initial_sidebar_state="collapsed",
